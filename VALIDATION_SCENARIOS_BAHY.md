@@ -7,16 +7,13 @@
 
 ---
 
-
-Merci de nous avoir transmis vos 3 tests de recrutement actuels. Nous avons analysé en détail chaque mise en situation, et nous sommes ravis de constater que votre méthodologie est **déjà très structurée et pertinente**.
-
 L'objectif de ce document est de :
 1. ✅ **Confirmer notre compréhension** de vos 3 tests
 2. 🔄 **Proposer des ajustements** pour optimiser l'évaluation IA
 3. 💡 **Enrichir les critères** pour un scoring plus précis et objectif
 4. Evaloqui.ai pro**Valider ensemble** avant la création des scripts techniques
 
-**Principe clé** : Nous ne changeons PAS l'essence de vos tests, nous les **adaptons pour la simulation IA** tout en conservant vos objectifs pédagogiques.
+**Principe clé** : L’idée est de préserver l’esprit des tests tout en les **adaptons pour la simulation IA** sans modifier les objectifs pédagogiques.
 
 ---
 
