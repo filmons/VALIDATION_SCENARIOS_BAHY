@@ -19,7 +19,7 @@ L'objectif de ce document est de :
 
 ## Evaloqui.ai proVue d'Ensemble Comparative
 
-| Scénario | Durée | Critères BAHY | Critères proposés Evaloqui.ai pro | Changement |
+| Scénario | Durée | Critères BAHY | Critères proposés Evaloqui.ai | Changement |
 |----------|-------|---------------|--------------------------------|------------|
 | **Mini-exposé** | 3 min | 5 critères (échelle 1-5) | 7 critères (échelle 0-100) | +3 critères détaillés |
 | **Animation participative** | 3-4 min | 5 critères (échelle 1-5) | 8 critères (échelle 0-100) | +3 critères détaillés |
@@ -35,7 +35,7 @@ L'objectif de ce document est de :
 
 # Evaloqui.ai pro SCÉNARIO 1 : MINI-EXPOSÉ (3 MINUTES)
 
-## Evaloqui.ai pro Version Originale BAHY
+## Evaloqui.ai Version Originale BAHY
 
 ### Consigne
 > "Expliquez en 3 minutes un concept technique de votre spécialité à un groupe débutant."
@@ -122,7 +122,7 @@ Valider que l'intervenant peut enseigner un concept simplement, en gardant :
 
 ### 💡 Bénéfices des ajustements
 
-| Ajustement | Avant (BAHY) | Après (Evaloqui.ai pro) | Bénéfice |
+| Ajustement | Avant (BAHY) | Après (Evaloqui.ai ) | Bénéfice |
 |------------|--------------|----------------------|----------|
 | **Échelle** | 1-3-5 (3 niveaux) | 0-100 (granularité fine) | Scoring plus précis, radar détaillé |
 | **Critères** | 5 critères | 7 critères | Couverture complète (timing, progression, stress) |
@@ -145,9 +145,9 @@ Valider que l'intervenant peut enseigner un concept simplement, en gardant :
 
 ---
 
-# Evaloqui.ai pro SCÉNARIO 2 : ANIMATION PARTICIPATIVE (3-4 MIN)
+# Evaloqui.ai SCÉNARIO 2 : ANIMATION PARTICIPATIVE (3-4 MIN)
 
-## Evaloqui.ai pro Version Originale BAHY
+## Evaloqui.ai Version Originale BAHY
 
 ### Consigne
 > "Lancez une activité interactive et faites participer le groupe sur un sujet simple."
@@ -169,7 +169,7 @@ Observer la dynamique relationnelle, l'écoute, la gestion du groupe et le style
 
 ---
 
-## 🔄 Version Proposée Evaloqui.ai pro
+## 🔄 Version Proposée Evaloqui.ai 
 
 ### Contexte enrichi
 
@@ -236,7 +236,7 @@ S'assurer que l'intervenant peut :
 
 ### 💡 Bénéfices des ajustements
 
-| Ajustement | Avant (BAHY) | Après (Evaloqui.ai pro) | Bénéfice |
+| Ajustement | Avant (BAHY) | Après (Evaloqui.ai) | Bénéfice |
 |------------|--------------|----------------------|----------|
 | **Persona IA** | Groupe générique | 5 participants avec profils DISC distincts | Comportements réalistes (passif, participatif, critique...) |
 | **Critères** | 5 critères | 8 critères | Ajout de l'animation, adaptation, clôture |
@@ -281,7 +281,7 @@ Analyser le calme, la gestion émotionnelle, l'assertivité et la flexibilité.
 
 ---
 
-## 🔄 Version Proposée Evaloqui.ai pro
+## 🔄 Version Proposée Evaloqui
 
 ### Contexte enrichi
 
@@ -343,7 +343,7 @@ Vérifier que l'intervenant :
 
 ### 💡 Bénéfices des ajustements
 
-| Ajustement | Avant (BAHY) | Après (Evaloqui.ai pro) | Bénéfice |
+| Ajustement | Avant (BAHY) | Après (Evaloqui) | Bénéfice |
 |------------|--------------|----------------------|----------|
 | **Persona IA** | Participant générique | Marc Leroux (profil DISC D+C détaillé) | Comportement réaliste et crédible |
 | **Critères** | 5 critères | 8 critères | Ajout de l'écoute, empathie, reprise |
@@ -367,16 +367,16 @@ Vérifier que l'intervenant :
 
 ## Critères par Scénario
 
-| Scénario | Critères BAHY | Critères Ajoutés | Total Evaloqui.ai pro |
+| Scénario | Critères BAHY | Critères Ajoutés | Total Evaloqui |
 |----------|---------------|------------------|---------------------|
 | **Mini-exposé** | 5 | +3 (Timing, Progression, Stress) | 8 |
 | **Animation participative** | 5 | +3 (Animation, Adaptation, Clôture) | 8 |
 | **Gestion d'imprévu** | 5 | +3 (Écoute, Empathie, Reprise) | 8 |
 | **TOTAL** | **15 critères** | **+9 critères** | **24 critères** |
 
-## Bénéfices de l'Approche Evaloqui.ai pro
+## Bénéfices de l'Approche Evaloqui
 
-| Aspect | BAHY (Actuel) | Evaloqui.ai pro (Proposé) | Gain |
+| Aspect | BAHY (Actuel) | Evaloqui (Proposé) | Gain |
 |--------|---------------|-------------------------|------|
 | **Échelle d'évaluation** | 1-3-5 (3 niveaux) | 0-100 (granularité fine) | Scoring plus précis |
 | **Nombre de critères** | 15 critères (5×3) | 24 critères (8×3) | +60% de couverture |
@@ -394,7 +394,7 @@ Vérifier que l'intervenant :
 
 ## 💡 Notre Recommandation
 
-Nous recommandons d'adopter la **version enrichie Evaloqui.ai pro** pour les raisons suivantes :
+Nous recommandons d'adopter la **version enrichie Evaloqui** pour les raisons suivantes :
 
 1. **Conservation de l'ADN BAHY** ✅
    - Vos 5 critères originaux par scénario sont **100% conservés**
@@ -486,6 +486,6 @@ Nous restons à votre disposition pour tout ajustement ou clarification.
 
 ---
 
-**Document préparé par** : Evaloqui.ai pro - Équipe Produit
+**Document préparé par** : Evaloqui.ai - Équipe Produit
 **Date** : Décembre 2025
 **Version** : 1.0 - Validation initiale
