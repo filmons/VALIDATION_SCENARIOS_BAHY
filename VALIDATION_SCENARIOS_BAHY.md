@@ -1,5 +1,5 @@
-# Evaloqui.ai pro BAHY - Validation des Scénarios de Recrutement
-## Retour et Propositions d'Ajustements Evaloqui.ai pro
+# Evaloqui BAHY - Validation des Scénarios de Recrutement
+## Retour et Propositions d'Ajustements Evaloqui
 
 **Date** : Décembre 2025
 **Destinataire** : Équipe BAHY Associates
@@ -21,7 +21,7 @@ L'objectif de ce document est de :
 
 | Scénario | Durée | Critères BAHY | Critères proposés Evaloqui.ai pro | Changement |
 |----------|-------|---------------|--------------------------------|------------|
-| **Mini-exposé** | 3 min | 5 critères (échelle 1-5) | 8 critères (échelle 0-100) | +3 critères détaillés |
+| **Mini-exposé** | 3 min | 5 critères (échelle 1-5) | 7 critères (échelle 0-100) | +3 critères détaillés |
 | **Animation participative** | 3-4 min | 5 critères (échelle 1-5) | 8 critères (échelle 0-100) | +3 critères détaillés |
 | **Gestion d'imprévu** | Variable | 5 critères (échelle 1-5) | 8 critères (échelle 0-100) | +3 critères détaillés |
 
@@ -57,7 +57,7 @@ Analyser la structure, la clarté, la posture, l'énergie et le style pédagogiq
 
 ---
 
-## 🔄 Version Proposée Evaloqui.ai pro
+## 🔄 Version Proposée Evaloqui
 
 ### Contexte enrichi
 
@@ -106,7 +106,7 @@ Valider que l'intervenant peut enseigner un concept simplement, en gardant :
 - ✅ Une présence orale engageante
 - ✅ Un style pédagogique adapté
 
-### Critères d'évaluation proposés (8 critères - échelle 0-100)
+### Critères d'évaluation proposés (7 critères - échelle 0-100)
 
 | # | Critère | Poids | Description LLM | Origine |
 |---|---------|-------|-----------------|---------|
@@ -115,18 +115,17 @@ Valider que l'intervenant peut enseigner un concept simplement, en gardant :
 | 3 | **Capacité de vulgarisation** | 20% | Le candidat utilise-t-il des exemples concrets, des analogies, des métaphores pour rendre le concept accessible ? Adapte-t-il son discours au niveau débutant ? | ✅ BAHY |
 | 4 | **Posture orale et présence** | 15% | La voix est-elle claire, audible, énergique ? Le débit est-il adapté ? Le candidat semble-t-il engagé et enthousiaste ? | ✅ BAHY |
 | 5 | **Style pédagogique (TSI)** | 10% | Le candidat adopte-t-il un style adapté ? Expert rigide (1), Alternance contenu/exemples (3), ou Guide flexible (5) ? | ✅ BAHY |
-| 6 | **Respect du timing** | 10% | Le candidat termine-t-il en 3 minutes (± 15 secondes) ? Gère-t-il bien son temps ? | 🆕 Ajouté |
-| 7 | **Pédagogie et progression** | 5% | Le concept est-il expliqué progressivement (du simple au complexe) ? Y a-t-il une logique pédagogique ? | 🆕 Ajouté |
-| 8 | **Assurance et gestion du stress** | 5% | Le candidat semble-t-il à l'aise ? Gère-t-il le stress de l'évaluation ? Maintient-il le contact visuel ? | 🆕 Ajouté |
+| 6 | **Pédagogie et progression** | 5% | Le concept est-il expliqué progressivement (du simple au complexe) ? Y a-t-il une logique pédagogique ? | 🆕 Ajouté |
+| 7 | **Assurance et gestion du stress** | 5% | Le candidat semble-t-il à l'aise ? Gère-t-il le stress de l'évaluation ? Maintient-il le contact visuel ? | 🆕 Ajouté |
 
-**Total** : 100% (8 critères)
+**Total** : 100% (7 critères)
 
 ### 💡 Bénéfices des ajustements
 
 | Ajustement | Avant (BAHY) | Après (Evaloqui.ai pro) | Bénéfice |
 |------------|--------------|----------------------|----------|
 | **Échelle** | 1-3-5 (3 niveaux) | 0-100 (granularité fine) | Scoring plus précis, radar détaillé |
-| **Critères** | 5 critères | 8 critères | Couverture complète (timing, progression, stress) |
+| **Critères** | 5 critères | 7 critères | Couverture complète (timing, progression, stress) |
 | **Persona IA** | Groupe débutant générique | Sarah Dufresne (profil DISC) | Comportements réalistes et conditionnels |
 | **Feedback** | Qualitatif | Quantitatif + Qualitatif | Rapport automatique avec axes d'amélioration |
 
