@@ -1,4 +1,4 @@
-# Evaloqui BAHY - Validation des Scénarios de Recrutement
+# BAHY - Validation des Scénarios de Recrutement
 ## Retour et Propositions d'Ajustements Evaloqui
 
 **Date** : Décembre 2025
@@ -17,7 +17,7 @@ L'objectif de ce document est de :
 
 ---
 
-## Evaloqui.ai proVue d'Ensemble Comparative
+## Evaloqui Vue d'Ensemble Comparative
 
 | Scénario | Durée | Critères BAHY | Critères proposés Evaloqui.ai | Changement |
 |----------|-------|---------------|--------------------------------|------------|
@@ -33,9 +33,9 @@ L'objectif de ce document est de :
 
 ---
 
-# Evaloqui.ai pro SCÉNARIO 1 : MINI-EXPOSÉ (3 MINUTES)
+# Evaloqui SCÉNARIO 1 : MINI-EXPOSÉ (3 MINUTES)
 
-## Evaloqui.ai Version Originale BAHY
+## Evaloqui Version Originale BAHY
 
 ### Consigne
 > "Expliquez en 3 minutes un concept technique de votre spécialité à un groupe débutant."
@@ -122,7 +122,7 @@ Valider que l'intervenant peut enseigner un concept simplement, en gardant :
 
 ### 💡 Bénéfices des ajustements
 
-| Ajustement | Avant (BAHY) | Après (Evaloqui.ai ) | Bénéfice |
+| Ajustement | Avant (BAHY) | Après (Evaloqui) | Bénéfice |
 |------------|--------------|----------------------|----------|
 | **Échelle** | 1-3-5 (3 niveaux) | 0-100 (granularité fine) | Scoring plus précis, radar détaillé |
 | **Critères** | 5 critères | 7 critères | Couverture complète (timing, progression, stress) |
@@ -145,9 +145,9 @@ Valider que l'intervenant peut enseigner un concept simplement, en gardant :
 
 ---
 
-# Evaloqui.ai SCÉNARIO 2 : ANIMATION PARTICIPATIVE (3-4 MIN)
+# Evaloqui SCÉNARIO 2 : ANIMATION PARTICIPATIVE (3-4 MIN)
 
-## Evaloqui.ai Version Originale BAHY
+## Evaloqui Version Originale BAHY
 
 ### Consigne
 > "Lancez une activité interactive et faites participer le groupe sur un sujet simple."
@@ -169,7 +169,7 @@ Observer la dynamique relationnelle, l'écoute, la gestion du groupe et le style
 
 ---
 
-## 🔄 Version Proposée Evaloqui.ai 
+## 🔄 Version Proposée Evaloqui
 
 ### Contexte enrichi
 
@@ -236,7 +236,7 @@ S'assurer que l'intervenant peut :
 
 ### 💡 Bénéfices des ajustements
 
-| Ajustement | Avant (BAHY) | Après (Evaloqui.ai) | Bénéfice |
+| Ajustement | Avant (BAHY) | Après (Evaloqui) | Bénéfice |
 |------------|--------------|----------------------|----------|
 | **Persona IA** | Groupe générique | 5 participants avec profils DISC distincts | Comportements réalistes (passif, participatif, critique...) |
 | **Critères** | 5 critères | 8 critères | Ajout de l'animation, adaptation, clôture |
@@ -257,9 +257,9 @@ S'assurer que l'intervenant peut :
 
 ---
 
-# Evaloqui.ai pro SCÉNARIO 3 : GESTION D'IMPRÉVU / FEEDBACK DIFFICILE
+# Evaloqui SCÉNARIO 3 : GESTION D'IMPRÉVU / FEEDBACK DIFFICILE
 
-## Evaloqui.ai pro Version Originale BAHY
+## Evaloqui Version Originale BAHY
 
 ### Consigne
 > "Un participant conteste votre consigne : comment réagissez-vous ?"
@@ -363,7 +363,7 @@ Vérifier que l'intervenant :
 
 ---
 
-# Evaloqui.ai proTABLEAU COMPARATIF GLOBAL
+# Evaloqui TABLEAU COMPARATIF GLOBAL
 
 ## Critères par Scénario
 
@@ -416,7 +416,7 @@ Nous recommandons d'adopter la **version enrichie Evaloqui** pour les raisons su
    - Radar de compétences visuel
    - Disponibilité **24/7**
 
-## Evaloqui.ai pro Validation Demandée
+## Evaloqui Validation Demandée
 
 Pour passer à la phase technique, nous avons besoin de votre validation sur :
 
