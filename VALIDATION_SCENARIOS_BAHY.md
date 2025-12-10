@@ -470,35 +470,6 @@ Si vous souhaitez modifier certains points, merci de préciser :
 [Vos commentaires libres]
 ```
 
----
-
-## 📅 Planning Proposé
-
-### Phase 1 : Validation (Cette semaine) ✅
-- [x] Envoi de ce document de validation
-- [ ] Réunion de cadrage avec votre équipe (si nécessaire)
-- [ ] Validation finale des 3 scénarios + critères
-
-### Phase 2 : Création Technique (Semaine prochaine) 🔄
-- [ ] Génération des UUIDs (team, environment, situations)
-- [ ] Création des 6 scripts SQL d'insertion
-- [ ] Insertion en base de données de test
-- [ ] Vérification de l'intégrité des données
-
-### Phase 3 : Tests Pilotes (Dans 2 semaines) 🔄
-- [ ] Tests avec 5-10 formateurs volontaires
-- [ ] Récolte des feedbacks (candidats + équipe BAHY)
-- [ ] Ajustements des prompts LLM si nécessaire
-- [ ] Calibrage des seuils de scoring
-
-### Phase 4 : Déploiement (Dans 1 mois) 🔄
-- [ ] Formation de l'équipe BAHY à l'utilisation
-- [ ] Communication auprès des candidats formateurs
-- [ ] Intégration dans votre processus de recrutement
-- [ ] Suivi des KPIs et optimisation continue
-
----
-
 ## 📞 Contact & Suivi
 
 **Pour toute question ou validation** :
